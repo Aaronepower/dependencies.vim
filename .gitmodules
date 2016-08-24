@@ -1,0 +1,54 @@
+[submodule "LaTeX-Box"]
+	path = LaTeX-Box
+	url = git://github.com/LaTeX-Box-Team/LaTeX-Box.git
+[submodule "YouCompleteMe"]
+	path = YouCompleteMe
+	url = git://github.com/Valloric/YouCompleteMe.git
+[submodule "delimitMate"]
+	path = delimitMate
+	url = git://github.com/Raimondi/delimitMate.git
+[submodule "emmet-vim"]
+	path = emmet-vim
+	url = git://github.com/mattn/emmet-vim
+[submodule "goyo.vim"]
+	path = goyo.vim
+	url = git://github.com/junegunn/goyo.vim.git
+[submodule "nerdtree"]
+	path = nerdtree
+	url = git://github.com/scrooloose/nerdtree.git
+[submodule "rust.vim"]
+	path = rust.vim
+	url = git://github.com/rust-lang/rust.vim.git
+[submodule "supertab"]
+	path = supertab
+	url = git://github.com/ervandew/supertab.git
+[submodule "swift.vim"]
+	path = swift.vim
+	url = git://github.com/keith/swift.vim
+[submodule "syntastic"]
+	path = syntastic
+	url = git://github.com/scrooloose/syntastic
+[submodule "vim-airline"]
+	path = vim-airline
+	url = git://github.com/vim-airline/vim-airline
+[submodule "vim-colors-solarized"]
+	path = vim-colors-solarized
+	url = git://github.com/altercation/vim-colors-solarized
+[submodule "vim-fugitive"]
+	path = vim-fugitive
+	url = git://github.com/tpope/vim-fugitive
+[submodule "vim-javascript"]
+	path = vim-javascript
+	url = git://github.com/pangloss/vim-javascript
+[submodule "vim-racer"]
+	path = vim-racer
+	url = git://github.com/racer-rust/vim-racer
+[submodule "vim-sensible"]
+	path = vim-sensible
+	url = git://github.com/tpope/vim-sensible
+[submodule "vim-surround"]
+	path = vim-surround
+	url = git://github.com/tpope/vim-surround
+[submodule "webapi-vim"]
+	path = webapi-vim
+	url = git://github.com/mattn/webapi-vim
